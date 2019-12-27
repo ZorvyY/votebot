@@ -14,11 +14,12 @@
     "chrome-aws-lambda": "^2.0.1",
     "console-stamp": "^0.2.9",
     "p-limit": "^2.2.1",
+    "puppeteer": "^2.0.0",
     "puppeteer-core": "^2.0.0",
-    "user-agents": "^1.0.479"
+    "user-agents": "^1.0.479",
+    "yargs": "^15.0.2"
   },
   "devDependencies": {
-    "node-mac": "^0.1.8",
-    "puppeteer": "^2.0.0"
+    "node-mac": "^0.1.8"
   }
 }

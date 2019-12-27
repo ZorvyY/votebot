@@ -1,3 +1,5 @@
 bot.zip
 node_modules
 screenshots/
+build/
+log.txt
