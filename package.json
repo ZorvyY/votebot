@@ -12,9 +12,13 @@
   "dependencies": {
     "axios": "^0.19.0",
     "chrome-aws-lambda": "^2.0.1",
-    "puppeteer-core": "^2.0.0"
+    "console-stamp": "^0.2.9",
+    "p-limit": "^2.2.1",
+    "puppeteer-core": "^2.0.0",
+    "user-agents": "^1.0.479"
   },
   "devDependencies": {
+    "node-mac": "^0.1.8",
     "puppeteer": "^2.0.0"
   }
 }
